@@ -1,0 +1,6 @@
+If you want to run the code on your own computer, you will have to have the following datapacks:
+  1. numpy
+  2. matplotlib
+  3. pandas
+  4. plotlyx
+  5. streamlit
